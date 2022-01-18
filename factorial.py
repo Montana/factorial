@@ -3,7 +3,7 @@
 import sys
 import traceback
 
-class Factorial:
+class CalcFactorial:
     L = 64 
     L2 = int((L + 7) / 8) 
     N = 49 
@@ -39,10 +39,10 @@ class Factorial:
         except Exception as e:
             raise
 
+
 if __name__ == '__main__':
     try:
-        obj = 
-        Factorial()
+        obj = CalcFactorial()
         obj.compute()
     except Exception as e:
         traceback.print_exc()
