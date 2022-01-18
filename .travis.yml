@@ -1,4 +1,6 @@
 ---
 dist: bionic
 language: python 
-script: chmod u+x python3 factorial.py
+script: 
+- chmod u+x factorial.py
+- python3 factorial.py
