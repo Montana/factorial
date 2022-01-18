@@ -1,2 +1,4 @@
-# factorial.py
-Python factorials
+# Factorial
+
+Python factorials example 
+
