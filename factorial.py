@@ -39,7 +39,6 @@ class CalcFactorial:
         except Exception as e:
             raise
 
-
 if __name__ == '__main__':
     try:
         obj = CalcFactorial()
