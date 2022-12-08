@@ -1,6 +1,6 @@
 ---
-dist: jammy
-language: python
+dist: bionic
+language: python 
 script: 
 - chmod u+x factorial.py
 - python3 factorial.py
